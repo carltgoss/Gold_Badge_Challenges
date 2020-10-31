@@ -1,0 +1,6 @@
+C:\Users\ctgos\source\repos\Gold_Badge_Challenges\02_Komodo_Claims_Repository\bin\Debug\02_Komodo_Claims_Repository.dll
+C:\Users\ctgos\source\repos\Gold_Badge_Challenges\02_Komodo_Claims_Repository\bin\Debug\02_Komodo_Claims_Repository.pdb
+C:\Users\ctgos\source\repos\Gold_Badge_Challenges\02_Komodo_Claims_Repository\obj\Debug\02_Komodo_Claims_Repository.csprojAssemblyReference.cache
+C:\Users\ctgos\source\repos\Gold_Badge_Challenges\02_Komodo_Claims_Repository\obj\Debug\02_Komodo_Claims_Repository.csproj.CoreCompileInputs.cache
+C:\Users\ctgos\source\repos\Gold_Badge_Challenges\02_Komodo_Claims_Repository\obj\Debug\02_Komodo_Claims_Repository.dll
+C:\Users\ctgos\source\repos\Gold_Badge_Challenges\02_Komodo_Claims_Repository\obj\Debug\02_Komodo_Claims_Repository.pdb

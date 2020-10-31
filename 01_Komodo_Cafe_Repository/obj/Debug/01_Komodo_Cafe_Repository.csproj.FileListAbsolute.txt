@@ -1,0 +1,5 @@
+C:\Users\ctgos\source\repos\Gold_Badge_Challenges\01_Komodo_Cafe_Repository\bin\Debug\01_Komodo_Cafe_Repository.dll
+C:\Users\ctgos\source\repos\Gold_Badge_Challenges\01_Komodo_Cafe_Repository\bin\Debug\01_Komodo_Cafe_Repository.pdb
+C:\Users\ctgos\source\repos\Gold_Badge_Challenges\01_Komodo_Cafe_Repository\obj\Debug\01_Komodo_Cafe_Repository.csproj.CoreCompileInputs.cache
+C:\Users\ctgos\source\repos\Gold_Badge_Challenges\01_Komodo_Cafe_Repository\obj\Debug\01_Komodo_Cafe_Repository.dll
+C:\Users\ctgos\source\repos\Gold_Badge_Challenges\01_Komodo_Cafe_Repository\obj\Debug\01_Komodo_Cafe_Repository.pdb
