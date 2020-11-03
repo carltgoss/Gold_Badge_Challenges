@@ -1,0 +1,6 @@
+C:\Users\ctgos\source\repos\Gold_Badge_Challenges\06_Green_Plan_Repository\bin\Debug\06_Green_Plan_Repository.dll
+C:\Users\ctgos\source\repos\Gold_Badge_Challenges\06_Green_Plan_Repository\bin\Debug\06_Green_Plan_Repository.pdb
+C:\Users\ctgos\source\repos\Gold_Badge_Challenges\06_Green_Plan_Repository\obj\Debug\06_Green_Plan_Repository.csprojAssemblyReference.cache
+C:\Users\ctgos\source\repos\Gold_Badge_Challenges\06_Green_Plan_Repository\obj\Debug\06_Green_Plan_Repository.csproj.CoreCompileInputs.cache
+C:\Users\ctgos\source\repos\Gold_Badge_Challenges\06_Green_Plan_Repository\obj\Debug\06_Green_Plan_Repository.dll
+C:\Users\ctgos\source\repos\Gold_Badge_Challenges\06_Green_Plan_Repository\obj\Debug\06_Green_Plan_Repository.pdb
